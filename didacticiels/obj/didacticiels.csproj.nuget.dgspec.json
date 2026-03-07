@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/males/Desktop/Projects/didacticiels/didacticiels.csproj": {}
+    "/Users/males/Documents/GitHub/CSharp-DotNet-Projects/didacticiels/didacticiels.csproj": {}
   },
   "projects": {
-    "/Users/males/Desktop/Projects/didacticiels/didacticiels.csproj": {
+    "/Users/males/Documents/GitHub/CSharp-DotNet-Projects/didacticiels/didacticiels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/males/Desktop/Projects/didacticiels/didacticiels.csproj",
+        "projectUniqueName": "/Users/males/Documents/GitHub/CSharp-DotNet-Projects/didacticiels/didacticiels.csproj",
         "projectName": "didacticiels",
-        "projectPath": "/Users/males/Desktop/Projects/didacticiels/didacticiels.csproj",
+        "projectPath": "/Users/males/Documents/GitHub/CSharp-DotNet-Projects/didacticiels/didacticiels.csproj",
         "packagesPath": "/Users/males/.nuget/packages/",
-        "outputPath": "/Users/males/Desktop/Projects/didacticiels/obj/",
+        "outputPath": "/Users/males/Documents/GitHub/CSharp-DotNet-Projects/didacticiels/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/males/.nuget/NuGet/NuGet.Config"
