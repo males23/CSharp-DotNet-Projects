@@ -1,0 +1,14 @@
+/Users/males/Desktop/Projects/didacticiels/bin/Debug/net10.0/didacticiels
+/Users/males/Desktop/Projects/didacticiels/bin/Debug/net10.0/didacticiels.deps.json
+/Users/males/Desktop/Projects/didacticiels/bin/Debug/net10.0/didacticiels.runtimeconfig.json
+/Users/males/Desktop/Projects/didacticiels/bin/Debug/net10.0/didacticiels.dll
+/Users/males/Desktop/Projects/didacticiels/bin/Debug/net10.0/didacticiels.pdb
+/Users/males/Desktop/Projects/didacticiels/obj/Debug/net10.0/didacticiels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/males/Desktop/Projects/didacticiels/obj/Debug/net10.0/didacticiels.AssemblyInfoInputs.cache
+/Users/males/Desktop/Projects/didacticiels/obj/Debug/net10.0/didacticiels.AssemblyInfo.cs
+/Users/males/Desktop/Projects/didacticiels/obj/Debug/net10.0/didacticiels.csproj.CoreCompileInputs.cache
+/Users/males/Desktop/Projects/didacticiels/obj/Debug/net10.0/didacticiels.dll
+/Users/males/Desktop/Projects/didacticiels/obj/Debug/net10.0/refint/didacticiels.dll
+/Users/males/Desktop/Projects/didacticiels/obj/Debug/net10.0/didacticiels.pdb
+/Users/males/Desktop/Projects/didacticiels/obj/Debug/net10.0/didacticiels.genruntimeconfig.cache
+/Users/males/Desktop/Projects/didacticiels/obj/Debug/net10.0/ref/didacticiels.dll
