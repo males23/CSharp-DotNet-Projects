@@ -1,0 +1,15 @@
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/classe-struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/classe-struct.AssemblyInfoInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/classe-struct.AssemblyInfo.cs
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/classe-struct.csproj.CoreCompileInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/classe-struct.sourcelink.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/bin/Debug/net10.0/classe-struct
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/bin/Debug/net10.0/classe-struct.deps.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/bin/Debug/net10.0/classe-struct.runtimeconfig.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/bin/Debug/net10.0/classe-struct.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/bin/Debug/net10.0/classe-struct.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/classe-struct.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/refint/classe-struct.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/classe-struct.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/classe-struct.genruntimeconfig.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/classe-struct/obj/Debug/net10.0/ref/classe-struct.dll
