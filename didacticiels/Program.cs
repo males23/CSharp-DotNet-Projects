@@ -2,7 +2,7 @@
 //Console.WriteLine("Hello, World!");
 
 
-//Tu mets chaque bloc dans une fonction et tu appelles celle que tu veux tester.
+//Chaque bloc dans une fonction et on appelle celle que nous voulons tester.
 
 //TestBloc1();
 TestBloc2();
