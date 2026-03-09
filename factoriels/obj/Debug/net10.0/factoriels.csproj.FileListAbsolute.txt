@@ -1,0 +1,15 @@
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/bin/Debug/net10.0/factoriels
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/bin/Debug/net10.0/factoriels.deps.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/bin/Debug/net10.0/factoriels.runtimeconfig.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/bin/Debug/net10.0/factoriels.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/bin/Debug/net10.0/factoriels.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/factoriels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/factoriels.AssemblyInfoInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/factoriels.AssemblyInfo.cs
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/factoriels.csproj.CoreCompileInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/factoriels.sourcelink.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/factoriels.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/refint/factoriels.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/factoriels.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/factoriels.genruntimeconfig.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/factoriels/obj/Debug/net10.0/ref/factoriels.dll
