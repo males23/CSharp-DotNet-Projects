@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("didacticiels")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("list-collections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+146c709b9ecbecd90a4e35df2cda9d8479fd9e72")]
-[assembly: System.Reflection.AssemblyProductAttribute("didacticiels")]
-[assembly: System.Reflection.AssemblyTitleAttribute("didacticiels")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d7bb33c2f636d5b4ed6d164512c0f3789c145ec")]
+[assembly: System.Reflection.AssemblyProductAttribute("list-collections")]
+[assembly: System.Reflection.AssemblyTitleAttribute("list-collections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
