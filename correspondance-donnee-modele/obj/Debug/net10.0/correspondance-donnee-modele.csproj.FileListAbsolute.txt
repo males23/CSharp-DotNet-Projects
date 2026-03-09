@@ -1,0 +1,15 @@
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/bin/Debug/net10.0/correspondance-donnee-modele
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/bin/Debug/net10.0/correspondance-donnee-modele.deps.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/bin/Debug/net10.0/correspondance-donnee-modele.runtimeconfig.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/bin/Debug/net10.0/correspondance-donnee-modele.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/bin/Debug/net10.0/correspondance-donnee-modele.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/correspondance-donnee-modele.GeneratedMSBuildEditorConfig.editorconfig
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/correspondance-donnee-modele.AssemblyInfoInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/correspondance-donnee-modele.AssemblyInfo.cs
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/correspondance-donnee-modele.csproj.CoreCompileInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/correspondance-donnee-modele.sourcelink.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/correspondance-donnee-modele.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/refint/correspondance-donnee-modele.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/correspondance-donnee-modele.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/correspondance-donnee-modele.genruntimeconfig.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/correspondance-donnee-modele/obj/Debug/net10.0/ref/correspondance-donnee-modele.dll
