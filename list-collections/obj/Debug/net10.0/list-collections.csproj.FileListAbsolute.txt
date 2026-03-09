@@ -1,0 +1,15 @@
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/bin/Debug/net10.0/list-collections
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/bin/Debug/net10.0/list-collections.deps.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/bin/Debug/net10.0/list-collections.runtimeconfig.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/bin/Debug/net10.0/list-collections.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/bin/Debug/net10.0/list-collections.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/list-collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/list-collections.AssemblyInfoInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/list-collections.AssemblyInfo.cs
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/list-collections.csproj.CoreCompileInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/list-collections.sourcelink.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/list-collections.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/refint/list-collections.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/list-collections.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/list-collections.genruntimeconfig.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/list-collections/obj/Debug/net10.0/ref/list-collections.dll
