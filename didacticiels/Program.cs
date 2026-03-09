@@ -2,7 +2,9 @@
 //Console.WriteLine("Hello, World!");
 
 
-//Tu mets chaque bloc dans une fonction et tu appelles celle que tu veux tester.
+/*
+
+//Chaque bloc dans une fonction et tu appelles celle que tu veux tester.
 
 //TestBloc1();
 TestBloc2();
@@ -162,4 +164,11 @@ void TestBloc2()
 // Déclaration du record (doit être en dehors de la méthode)
 public record Point(int X, int Y);
 
+*/
+
+//Code qui calcule la zone d’un cercle dont le rayon est de 2,50 centimètres
+double rayon = 2.5;
+double aire = Math.PI * rayon * rayon;
+
+Console.WriteLine("L'aire du cercle est : " + aire);
 
