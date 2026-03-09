@@ -1,0 +1,15 @@
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/bin/Debug/net10.0/branches-loops
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/bin/Debug/net10.0/branches-loops.deps.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/bin/Debug/net10.0/branches-loops.runtimeconfig.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/bin/Debug/net10.0/branches-loops.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/bin/Debug/net10.0/branches-loops.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/branches-loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/branches-loops.AssemblyInfoInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/branches-loops.AssemblyInfo.cs
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/branches-loops.csproj.CoreCompileInputs.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/branches-loops.sourcelink.json
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/branches-loops.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/refint/branches-loops.dll
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/branches-loops.pdb
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/branches-loops.genruntimeconfig.cache
+/Users/males/Documents/GitHub/CSharp-DotNet-Projects/branches-loops/obj/Debug/net10.0/ref/branches-loops.dll
